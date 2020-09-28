@@ -1,4 +1,4 @@
-# ImageApp
+# Beautiful Backgrounds
 
 Project developed in Android studio as a use case for Android's Page Adapter Class. 
 
